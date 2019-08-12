@@ -1,6 +1,8 @@
 #Introduction  
 ##Histoire de l'EPFL  
-Blablabla  
+- 1853 : Création de L'Ecole spéciale de Lausanne.  
+- 1944: L'ecole devient l'Ecole polytechnique de l'Université de Lausanne.   
+- 1969: l'EPFL est officiellement fondée le 1er janvier.  
 #Structure EPFL  
 ##Facultés et Collèges  
 Le campus est composé de 5 facultés et de 3 collèges :  
@@ -43,7 +45,7 @@ La carte camipro est en quelque sorte la carte d'identité de l'EPFL. Elle perme
 - Emprunter un vélo publibike (cf Transport).  
 <!-- commentaire pour faire un espace--> 
 Vous pouvez recharger votre camipro à l'AGEPOLY à l'esplanade avec de l'argent liquide ou par carte de crédit dans les bornes de recharge.  
-En cas de vol vous pouvez bloquer votre camipro via l'application (cf application) et en racheter une nouvelle **trouver le nom du bureau**.  
+En cas de vol vous pouvez bloquer votre camipro via l'application (cf application) et en racheter une nouvelle au guichet des Services Aux Etudiants qui se trouve dans le batiment BP.    
 ##Transport  
 L'EPFL est relié à :  
 - Lausanne-Flon grâce au métro M1 direction Lausanne-Flon.  
@@ -53,16 +55,16 @@ Les horaires sont disponibles sur <https://www.t-l.ch/>
 <!-- commentaire pour faire un espace-->  
 Pour aller à l'aéroport de Genève, il faut prendre le train depuis Lausanne-Gare ou depuis Rennens-Gare. Plus de détails sont disponibles sur <https://www.sbb.ch/fr/>  
 <!-- commentaire pour faire un espace-->  
-Vous pouvez également vous déplacer a vélo grâce à l'application publibike en vous inscrivant avec votre mail de l'EPFL, ce qui vous donnera à cahque trajet de vélo 1h gratuite. Voici le lien pour s'inscrire <https://www.publibike.ch/fr/publibike/>.  
+Vous pouvez également vous déplacer a vélo grâce à l'application publibike en vous inscrivant avec votre mail de l'EPFL, ce qui vous donnera à chaque trajet de vélo 1h gratuite. Voici le lien pour s'inscrire <https://www.publibike.ch/fr/publibike/>.  
 ##Application  
 L'application officielle de l'EPFL est pocket campus qui est disponible sur toutes IOS, Android et Windows. Elle permet de :
 - Se reperer à l'EPFL grâce a un plan.  
 - Avoir les horaires du metro M1.  
 - Voir son solde camipro et envoyer de l'argent depuis sa camipro à d'autres gens.  
-- imprimer sur une imprimante de l'EPFL.  
-- Annuaire(an finir)  
+- Imprimer sur une imprimante de l'EPFL.  
+- Annuaire(à finir)  
 ##Administration  
-##Bibliothèque  
+En cas
 ##Informatique  
 Blablabla
 ##Centre de langue  
