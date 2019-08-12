@@ -54,8 +54,13 @@ Les horaires sont disponibles sur <https://www.t-l.ch/>
 Pour aller à l'aéroport de Genève, il faut prendre le train depuis Lausanne-Gare ou depuis Rennens-Gare. Plus de détails sont disponibles sur <https://www.sbb.ch/fr/>  
 <!-- commentaire pour faire un espace-->  
 Vous pouvez également vous déplacer a vélo grâce à l'application publibike en vous inscrivant avec votre mail de l'EPFL, ce qui vous donnera à cahque trajet de vélo 1h gratuite. Voici le lien pour s'inscrire <https://www.publibike.ch/fr/publibike/>.  
-##Restauration  
-Blablabla
+##Application  
+L'application officielle de l'EPFL est pocket campus qui est disponible sur toutes IOS, Android et Windows. Elle permet de :
+- Se reperer à l'EPFL grâce a un plan.  
+- Avoir les horaires du metro M1.  
+- Voir son solde camipro et envoyer de l'argent depuis sa camipro à d'autres gens.  
+- imprimer sur une imprimante de l'EPFL.  
+- Rechercher des gens grâce à un annuaire.  
 ##Administration  
 ##Bibliothèque  
 ##Informatique  
