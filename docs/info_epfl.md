@@ -24,10 +24,12 @@ Les accréditations conférent des **rôles** a chaque personne qui peuvent êtr
 - Responsable communication  
 - Responsable IT  
 - Administrateur inventaire  
+<!-- commentaire pour faire un espace-->;  
 Chaque rôle confère un ensemble de **droits**. Les droits peuvent être exercés sur l'unité de correspondant à l'accréditation et sur toutes les unités qui en découlent. Par exemple dans la première figure, si on a un droit sur l'unité STI, on l'a également sur toutes les sections qui appartiennent a STI, sur tous les labos de STI, etc. On dit que les droits sont héréditaires. Ces droit peuvent être par exemple :    
 - Editer WordPress  
 - Envoyer des Mass Mail 
 - Dépenser 5'000 Francs  
+<!-- commentaire pour faire un espace-->;  
 Les droits conférés par les rôles sont appelés droits implicites.  
 D'autre part, il y a les droits explicites.     
 
@@ -39,11 +41,18 @@ La carte camipro est en quelque sorte la carte d'identité de l'EPFL. Elle perme
 - Avoir des rabais dans certains commerces hors de l'EPFL (voici la liste des partenaires <https://camipro.epfl.ch/fr/autres_fonctions/avantages/>)  
 - Accédér à certaines zones de l'EPFL si vous êtes autorisés.  
 - Emprunter un vélo publibike (cf Transport).  
-
+<!-- commentaire pour faire un espace-->;  
 Vous pouvez recharger votre camipro à l'AGEPOLY à l'esplanade avec de l'argent liquide ou par carte de crédit dans les bornes de recharge.  
 En cas de vol vous pouvez bloquer votre camipro via l'application (cf application) et en racheter une nouvelle **trouver le nom du bureau**.  
 ##Transport  
-Blablabla
+L'EPFL est relié à :  
+- Lausanne-Flon grâce au métro M1 direction Lausanne-Flon et on peut atteindre la gare de Lausanne à partir de Lausanne-Flon grâce au métro M2 direction Ouchy-Olympique.  
+- La gare de Rennens via le métro M1 direction Rennens  
+Les horaires sont disponibles sur <https://www.t-l.ch/>  
+<!-- commentaire pour faire un espace-->;  
+Pour aller à l'aéroport de Genève, il faut prendre le train depuis Lausanne-Gare ou depuis Rennens-Gare. Plus de détails sont disponibles sur <https://www.sbb.ch/fr/>  
+<!-- commentaire pour faire un espace-->;  
+Vous pouvez également vous déplacer a vélo grâce à l'application publibike en vous inscrivant avec votre mail de l'EPFL, ce qui vous donnera à cahque trajet de vélo 1h gratuite. Voici le lien pour s'inscrire <https://www.publibike.ch/fr/publibike/>.  
 ##Restauration  
 Blablabla
 ##Administration  
