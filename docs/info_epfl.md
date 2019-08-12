@@ -31,7 +31,7 @@ Chaque rôle confère un ensemble de **droits**. Les droits peuvent être exerc�
 - Dépenser 5'000 Francs  
 <!-- commentaire pour faire un espace-->  
 Les droits conférés par les rôles sont appelés droits implicites.  
-D'autre part, il y a les droits explicites.     
+D'autre part, il y a les droits explicites. Ce sont des droits particuliers qu'une personne 1 peut donner à une personne 2 y      
 
 #Information Pratique  
 ##Camipro  
@@ -46,8 +46,9 @@ Vous pouvez recharger votre camipro à l'AGEPOLY à l'esplanade avec de l'argent
 En cas de vol vous pouvez bloquer votre camipro via l'application (cf application) et en racheter une nouvelle **trouver le nom du bureau**.  
 ##Transport  
 L'EPFL est relié à :  
-- Lausanne-Flon grâce au métro M1 direction Lausanne-Flon et on peut atteindre la gare de Lausanne à partir de Lausanne-Flon grâce au métro M2 direction Ouchy-Olympique.  
-- La gare de Rennens via le métro M1 direction Rennens  
+- Lausanne-Flon grâce au métro M1 direction Lausanne-Flon.  
+- La gare de Lausanne depuis Lausanne-Flon grâce au métro M2 direction Ouchy-Olympique.    
+- La gare de Rennens via le métro M1 direction Rennens.  
 Les horaires sont disponibles sur <https://www.t-l.ch/>  
 <!-- commentaire pour faire un espace-->  
 Pour aller à l'aéroport de Genève, il faut prendre le train depuis Lausanne-Gare ou depuis Rennens-Gare. Plus de détails sont disponibles sur <https://www.sbb.ch/fr/>  
