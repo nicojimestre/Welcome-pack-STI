@@ -1,8 +1,8 @@
-#Introduction
-##Histoire de l'EPFL
-Blablabla
-#Structure EPFL
-##Facultés et Collèges
+#Introduction  
+##Histoire de l'EPFL  
+Blablabla  
+#Structure EPFL  
+##Facultés et Collèges <br \>
 Le campus est composé de 5 facultés et de 3 collèges :  
 - Faculté de l'environment naturel, architectural et construit, **ENAC**  
 - Faculté Informatique et Communications, **IC**  
@@ -31,8 +31,8 @@ Chaque rôle confère un ensemble de **droits**. Les droits peuvent être exerc�
 Les droits conférés par les rôles sont appelés droits implicites.  
 D'autre part, il y a les droits explicites.     
 
-#Information Pratique
-##Camipro
+#Information Pratique  
+##Camipro  
 La carte camipro est en quelque sorte la carte d'identité de l'EPFL. Elle permet de :  
 - Payer de la nourriture dans les restaurants de l'EPFL (et d'obtenir des rabais), dans les distributeurs, et des cafés dans les machines.  
 - Imprimer des documents dans les imprimantes de l'EPFL.  
@@ -42,15 +42,15 @@ La carte camipro est en quelque sorte la carte d'identité de l'EPFL. Elle perme
 
 Vous pouvez recharger votre camipro à l'AGEPOLY à l'esplanade avec de l'argent liquide ou par carte de crédit dans les bornes de recharge.  
 En cas de vol vous pouvez bloquer votre camipro via l'application (cf application) et en racheter une nouvelle **trouver le nom du bureau**.  
-##Transport
+##Transport  
 Blablabla
-##Restauration
+##Restauration  
 Blablabla
-##Administration
-##Bibliothèque
-##Informatique
+##Administration  
+##Bibliothèque  
+##Informatique  
 Blablabla
-##Centre de langue
+##Centre de langue  
 
 
 
