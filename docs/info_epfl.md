@@ -2,7 +2,7 @@
 ##Histoire de l'EPFL  
 Blablabla  
 #Structure EPFL  
-##Facultés et Collèges <br \>
+##Facultés et Collèges  
 Le campus est composé de 5 facultés et de 3 collèges :  
 - Faculté de l'environment naturel, architectural et construit, **ENAC**  
 - Faculté Informatique et Communications, **IC**  
@@ -13,18 +13,18 @@ Le campus est composé de 5 facultés et de 3 collèges :
 - Collège du Management, **CDM**  
 - Middle- East  
 #Acréditations
-L'EPFL est une organisation qui est divisée en 5 facultés et en 3 collèges (cf Facultés et Collèges). Chaque faculté est elle même divisée en sections et en unités administratives. 
+L'EPFL est une organisation qui est divisée en 5 facultés et en 3 collèges (cf Facultés et Collèges). Chaque faculté est elle même divisée en sections et en unités administratives.   
 **graph**  
-Dans le schéma ci-dessus, Chaque carré est appelé une **unité**. Chaque unité peut être une faculté, un laboratoire, un service IT d'une faculté, etc. Chaque unité a un niveau correspondant à son niveau dans la hiérarchie. Les niveaux vont de 1 à 4 comme dans l'ecemple ci-dessus, 1 étant le plus élevé et 4 le moins élevé.
+Dans le schéma ci-dessus, Chaque carré est appelé une **unité**. Chaque unité peut être une faculté, un laboratoire, un service IT d'une faculté, etc. Chaque unité a un niveau correspondant à son niveau dans la hiérarchie. Les niveaux vont de 1 à 4 comme dans l'ecemple ci-dessus, 1 étant le plus élevé et 4 le moins élevé.  
 Toutes les personnes appartiennent à une unité de niveau 4. Cette relation entre une personne et une unité est appelée **acréditation**.  
 L'acréditation se présente sous la forme suivante: 
 **deuxième schéma**
-Chaque personne, représentée par son numéro sciper, a une ou plsieurs accréditations dans différentes unités et toutes ces accréditations sont identifiables par un ID unique.
+Chaque personne, représentée par son numéro sciper, a une ou plsieurs accréditations dans différentes unités et toutes ces accréditations sont identifiables par un ID unique.  
 Les accréditations conférent des **rôles** a chaque personne qui peuvent être par exemple:  
 - Responsable communication  
 - Responsable IT  
 - Administrateur inventaire  
-Chaque rôle confère un ensemble de **droits**. Les droits peuvent être exercés sur l'unité de correspondant à l'accréditation et sur toutes les unités qui en découlent. Par exemple dans la première figure, si on a un droit sur l'unité STI, on l'a également sur toutes les sections qui appartiennent a STI, sur tous les labos de STI, etc. On dit que les droits sont héréditaires. Ces droit peuvent être par exemple :  
+Chaque rôle confère un ensemble de **droits**. Les droits peuvent être exercés sur l'unité de correspondant à l'accréditation et sur toutes les unités qui en découlent. Par exemple dans la première figure, si on a un droit sur l'unité STI, on l'a également sur toutes les sections qui appartiennent a STI, sur tous les labos de STI, etc. On dit que les droits sont héréditaires. Ces droit peuvent être par exemple :    
 - Editer WordPress  
 - Envoyer des Mass Mail 
 - Dépenser 5'000 Francs  
