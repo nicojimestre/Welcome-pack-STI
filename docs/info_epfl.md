@@ -60,7 +60,7 @@ L'application officielle de l'EPFL est pocket campus qui est disponible sur tout
 - Avoir les horaires du metro M1.  
 - Voir son solde camipro et envoyer de l'argent depuis sa camipro à d'autres gens.  
 - imprimer sur une imprimante de l'EPFL.  
-- Rechercher des gens grâce à un annuaire.  
+- Annuaire(an finir)  
 ##Administration  
 ##Bibliothèque  
 ##Informatique  
