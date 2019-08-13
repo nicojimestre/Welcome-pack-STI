@@ -58,7 +58,7 @@ Les horaires sont disponibles sur <https://www.t-l.ch/>
 <!-- commentaire pour faire un espace-->  
 Pour aller à l'aéroport de Genève, il faut prendre le train depuis Lausanne-Gare ou depuis Rennens-Gare. Plus de détails sont disponibles sur <https://www.sbb.ch/fr/>  
 <!-- commentaire pour faire un espace-->  
-Vous pouvez également vous déplacer a vélo grâce à l'application publibike en vous inscrivant avec votre mail de l'EPFL. Vous aurez aisni, à chaque trajet de vélo, 1h gratuite. Voici le lien pour s'inscrire <https://www.publibike.ch/fr/publibike/>.  
+Vous pouvez également vous déplacer a vélo grâce à l'application publibike en vous inscrivant avec votre mail de l'EPFL. Vous aurez ainsi droit, à chaque trajet de vélo, 1h gratuite. Voici le lien pour s'inscrire <https://www.publibike.ch/fr/publibike/>.  
 <!-- commentaire pour faire un espace-->  
 Vous pouvez également bénéficier de 4 mois gratuits pour emprunter des voitures Mobility qui sont en libre-service à l'EPFL si vous avez un permis de conduire international, un permis de séjour (ou que vous êtes domicilié en suisse). Après ces 4 mois gratuits, vous pouvez passer à un abonnement annuel de 70 CHF. Ces offres sont disponibles sur <https://mycamipro.epfl.ch/client/mobcond>.
 <!-- commentaire pour faire un espace-->  
