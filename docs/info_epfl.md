@@ -32,6 +32,7 @@ Chaque rôle permet d'obtenir un ensemble de droits. Ces droits peuvent être p
 - Dépenser 5'000 Francs  
 Ces droits peuvent être exercés sur l'unité de correspondant à l'accréditation et sur toutes les unités qui en découlent. Par exemple dans la première figure, si on a un droit sur l'unité STI, on l'a également sur toutes les sections qui appartiennent a STI, sur tous les labos de STI, etc. On dit que les droits sont héréditaires. Les droits conférés par les rôles sont appelés droits implicites.   
 D'autre part, il y a les droits explicites. Ce sont des droits qu'une personne 1, qui les a, donne à une personne 2 qui ne les a pas. La personne 2 a donc de nouveaux droits qui s'appliquent seulement aux unités où la personne 1 avait ce droit. Par exemple si quelqu'un à un droit particulier sur l'unité STI, et donc sur toutes les unités qui en découlent, et donne ce droit à une personne en d'un laboratoire de IC, alors cette personne aura un nouveau droit sur toute la section STI.  
+<!-- commentaire pour faire un espace-->  
 Vous pouvez trouver plus d'informations concernant les accréditations sur <https://accreditation.epfl.ch/comprendre/>
 
 #Information Pratique  
