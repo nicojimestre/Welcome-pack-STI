@@ -43,6 +43,8 @@ La carte camipro est en quelque sorte la carte d'identité de l'EPFL. Elle perme
 - Avoir des rabais dans certains commerces hors de l'EPFL (voici la liste des partenaires <https://camipro.epfl.ch/fr/autres_fonctions/avantages/>)  
 - Accédér à certaines zones de l'EPFL si vous êtes autorisés.  
 - Emprunter un vélo publibike (cf Transport).  
+- Utiliser un grill éléctrique en le réservant au préalable sur <https://camipro.epfl.ch/fr/autres_fonctions/polygrill/>.  
+- Obtenir une subvention pour les transports publiques à hauteur de 15%.  
 <!-- commentaire pour faire un espace--> 
 Vous pouvez recharger votre camipro à l'AGEPOLY à l'esplanade avec de l'argent liquide ou par carte de crédit dans les bornes de recharge.  
 En cas de vol vous pouvez bloquer votre camipro via l'application (cf application) et en racheter une nouvelle au guichet des Services Aux Etudiants qui se trouve dans le batiment BP.    
