@@ -66,7 +66,7 @@ L'application officielle de l'EPFL est pocket campus qui est disponible sur tout
 - Rechercher des collaborateurs de l'EPFL sur l'annuaire.  
 ##Centre de langue  
 Le centre de langues permet de faire des cours de langues gratuitement. Il se situe au batiment CM. Vous pouvez vous inscire depuis la page <https://www.epfl.ch/campus/services/internal-trainings/language-centre/>.  
-#Plus d'informations  
+##Plus d'informations  
 Vous pouvez trouver plus d'informations sur le site <https://www.epfl.ch/campus/services/accueil/ressources-humaines/nouveaux-collaborateurs-trices/>
 
 
