@@ -16,7 +16,7 @@ Le campus est composé de 5 facultés et de 3 collèges :
 - Middle- East  
 #Acréditations  
 L'EPFL est une organisation qui est divisée en 5 facultés et en 3 collèges (cf Facultés et Collèges). Chaque faculté est elle même divisée en sections et en unités administratives.   
-**graph**  
+![Schéma](schema1.PNG)
 Dans le schéma ci-dessus, Chaque carré est appelé une **unité**. Chaque unité peut être une faculté, un laboratoire, un service IT d'une faculté, etc. Chaque unité a un niveau correspondant à son niveau dans la hiérarchie. Les niveaux vont de 1 à 4 comme dans l'ecemple ci-dessus, 1 étant le plus élevé et 4 le moins élevé.  
 Toutes les personnes appartiennent à une unité de niveau 4. Cette relation entre une personne et une unité est appelée **acréditation**.  
 L'acréditation se présente sous la forme suivante: 
