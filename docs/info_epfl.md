@@ -16,9 +16,9 @@ Le campus est composé de 5 facultés et de 3 collèges :
 - Collège du Management, **CDM**  
 - Middle- East  
 #Accréditations  
-L'EPFL est une organisation qui est divisée en 5 facultés et en 3 collèges (cf Facultés et Collèges). Chaque faculté est-elle même divisée en sections et en unités administratives.     
+L'EPFL est une organisation qui est divisée en 5 facultés et en 3 collèges (cf Facultés et Collèges). Chaque faculté est composée de sections et d'unités administratives.     
 ![Schéma](schema_epfl.PNG)
-Dans le schéma ci-dessus, Chaque rectangle est appelé une unité. Une unité peut être une faculté, un laboratoire, le service IT d'une faculté, etc. Celles-ci ont un niveau correspondant à leur position dans la hiérarchie. Les niveaux vont de 1 à 4 comme dans l'exemple ci-dessus, 1 étant le plus élevé et 4 le moins élevé.  
+Dans le schéma ci-dessus, Chaque rectangle est appelé une unité. Une unité peut être une faculté, un laboratoire, le service IT d'une faculté, etc. CCelles-ci ont un niveau correspondant à leur position dans la hiérarchie. Les niveaux vont de 1 à 4 (1 le plus élevé et 4 le moins élevé)..  
 Toutes les personnes appartiennent à une unité de niveau 4. Cette relation entre une personne et une unité est appelée **accréditation**.  
 Chaque personne, représentée par son numéro sciper, a une ou plusieurs accréditations dans différentes unités et chaque accréditation est identifiables par un ID unique.  
 Les accréditations conférent un **rôle** a chaque personne qui peut être par exemple:  
@@ -31,7 +31,7 @@ Chaque rôle permet d'obtenir un ensemble de droits. Ces droits peuvent être p
 - Envoyer des Mass Mail 
 - Dépenser 5'000 Francs  
 Ces droits peuvent être exercés sur l'unité de correspondant à l'accréditation et sur toutes les unités qui en découlent. Par exemple dans la première figure, si on a un droit sur l'unité STI, on l'a également sur toutes les sections qui appartiennent a STI, sur tous les labos de STI, etc. On dit que les droits sont héréditaires. Les droits conférés par les rôles sont appelés droits implicites.   
-D'autre part, il y a les droits explicites. Ce sont des droits qu'une personne 1, qui les a, donne à une personne 2 qui ne les a pas. La personne 2 a donc de nouveaux droits qui s'appliquent seulement aux unités où la personne 1 avait ce droit. Par exemple si quelqu'un à un droit particulier sur l'unité STI, et donc sur toutes les unités qui en découlent, et donne ce droit à une personne en d'un laboratoire de IC, alors cette personne aura un nouveau droit sur toute la section STI.  
+D'autre part, il y a les droits explicites. Ce sont les droits qu'une personne A peut donner à une autre personne B. A doit avoir les droits pour les donner à B et  ces droits s'appliquent seulement aux unités où A a les droits. Par exemple si quelqu'un à un droit particulier sur l'unité STI, et donc sur toutes les unités qui en découlent, et donne ce droit à une personne en d'un laboratoire de IC, alors cette personne aura un nouveau droit sur toute la section STI.  
 <!-- commentaire pour faire un espace-->  
 Vous pouvez trouver plus d'informations concernant les accréditations sur <https://accreditation.epfl.ch/comprendre/>
 
@@ -57,9 +57,11 @@ Pour aller à l'aéroport de Genève, il faut prendre le train depuis Lausanne-G
 <!-- commentaire pour faire un espace-->  
 Vous pouvez également vous déplacer a vélo grâce à l'application publibike en vous inscrivant avec votre mail de l'EPFL, ce qui vous donnera à chaque trajet de vélo 1h gratuite. Voici le lien pour s'inscrire <https://www.publibike.ch/fr/publibike/>.  
 <!-- commentaire pour faire un espace-->  
+Vous pouvez également bénéficier de 4 mois gratuits pour emprunter des voitures Mobility qui sont en libre-service à l'EPFL si vous avez un permis de conduire international, un permis de séjour (ou que vous êtes domicilié en suisse). Après ces 4 mois gratuits, vous pouvez passer à un abonnement annuel a 70 CHF. Ces offres sont disponibles sur <https://mycamipro.epfl.ch/client/mobcond>.
+<!-- commentaire pour faire un espace-->  
 Enfin vous pouvez bénéficier d'un parking à un prix avantageux si vous êtes collaborateur à l'EPFL depuis l'application pocket campus (cf Application) dans l'onglet parking.  
 ##Application  
-L'application officielle de l'EPFL est pocket campus qui est disponible sur toutes IOS, Android et Windows. Elle permet de :
+L'application officielle de l'EPFL est pocket campus qui est disponible sur IOS, Android et Windows. Elle permet de :
 - Se reperer à l'EPFL grâce a un plan.  
 - Avoir les horaires du metro M1.  
 - Voir son solde camipro et envoyer de l'argent depuis sa camipro à d'autres gens.  
