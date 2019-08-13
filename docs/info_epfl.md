@@ -30,6 +30,7 @@ Chaque rôle permet d'obtenir un ensemble de droits. Ces droits peuvent être p
 - Editer WordPress  
 - Envoyer des Mass Mail 
 - Dépenser 5'000 Francs  
+<!-- commentaire pour faire un espace-->  
 Ces droits peuvent être exercés sur l'unité de correspondant à l'accréditation et sur toutes les unités qui en découlent. Par exemple dans la première figure, si on a un droit sur l'unité STI, on l'a également sur toutes les sections qui appartiennent a STI, sur tous les labos de STI, etc. On dit que les droits sont héréditaires. Les droits conférés par les rôles sont appelés droits implicites.   
 D'autre part, il y a les droits explicites. Ce sont les droits qu'une personne A peut donner à une autre personne B. A doit avoir les droits pour les donner à B et  ces droits s'appliquent seulement aux unités où A a les droits. Par exemple si quelqu'un à un droit particulier sur l'unité STI, et donc sur toutes les unités qui en découlent, et donne ce droit à une personne en d'un laboratoire de IC, alors cette personne aura un nouveau droit sur toute la section STI.  
 <!-- commentaire pour faire un espace-->  
