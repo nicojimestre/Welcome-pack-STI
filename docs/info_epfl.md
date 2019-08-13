@@ -15,7 +15,7 @@ Le campus est composé de 5 facultés et de 3 collèges :
 - Collège des Humanités, **CDH**  
 - Collège du Management, **CDM**  
 - Middle- East  
-#Acréditations  
+#Accréditations  
 L'EPFL est une organisation qui est divisée en 5 facultés et en 3 collèges (cf Facultés et Collèges). Chaque faculté est-elle même divisée en sections et en unités administratives.     
 ![Schéma](schema1.PNG)
 Dans le schéma ci-dessus, Chaque rectangle est appelé une unité. Une unité peut être une faculté, un laboratoire, un service IT d'une faculté, etc. Celles-ci ont un niveau correspondant à leur position dans la hiérarchie. Les niveaux vont de 1 à 4 comme dans l'exemple ci-dessus, 1 étant le plus élevé et 4 le moins élevé.  
