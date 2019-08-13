@@ -20,7 +20,7 @@ L'EPFL est une organisation qui est divisée en 5 facultés et en 3 collèges (c
 ![Schéma](schema1.PNG)
 Dans le schéma ci-dessus, Chaque rectangle est appelé une **unité**. Une unité peut être une faculté, un laboratoire, un service IT d'une faculté, etc. Celles-ci ont un niveau correspondant à leur position dans la hiérarchie. Les niveaux vont de 1 à 4 comme dans l'exemple ci-dessus, 1 étant le plus élevé et 4 le moins élevé.  
 Toutes les personnes appartiennent à une unité de niveau 4. Cette relation entre une personne et une unité est appelée **acréditation**.  
-Chaque personne, représentée par son numéro sciper, a une ou plsieurs accréditations dans différentes unités et toutes ces accréditations sont identifiables par un ID unique.  
+Chaque personne, représentée par son numéro sciper, a une ou plusieurs accréditations dans différentes unités et toutes ces accréditations sont identifiables par un ID unique.  
 Les accréditations conférent un **rôle** a chaque personne qui peut être par exemple:  
 - Responsable communication  
 - Responsable IT  
