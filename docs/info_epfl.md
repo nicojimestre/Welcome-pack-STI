@@ -76,7 +76,7 @@ Le centre de langues permet de faire des cours de langues gratuitement. Il se si
 ##Plus d'informations  
 Vous pouvez trouver plus d'informations sur le site <https://www.epfl.ch/campus/services/accueil/ressources-humaines/nouveaux-collaborateurs-trices/>  
 #Glossaire
-- SCIPER : Identification au sein de l'EPFL. 
+- SCIPER : Numéro d'identification au sein de l'EPFL. Il est important de le connaître car il est souvent demandé.   
 - AGEPOLY : Association des étudiants de l'EPFL dont le bureau se trouve à l'esplanade.
 
 
