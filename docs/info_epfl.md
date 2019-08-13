@@ -18,7 +18,7 @@ Le campus est composé de 5 facultés et de 3 collèges :
 #Accréditations  
 L'EPFL est une organisation qui est divisée en 5 facultés et en 3 collèges (cf Facultés et Collèges). Chaque faculté est composée de sections et d'unités administratives.     
 ![Schéma](schema_epfl.PNG)
-Dans le schéma ci-dessus, Chaque rectangle est appelé une unité. Une unité peut être une faculté, un laboratoire, le service IT d'une faculté, etc. CCelles-ci ont un niveau correspondant à leur position dans la hiérarchie. Les niveaux vont de 1 à 4 (1 le plus élevé et 4 le moins élevé)..  
+Dans le schéma ci-dessus, Chaque rectangle est appelé une unité. Une unité peut être une faculté, un laboratoire, le service IT d'une faculté, etc. Celles-ci ont un niveau correspondant à leur position dans la hiérarchie. Les niveaux vont de 1 à 4 (1 le plus élevé et 4 le moins élevé)..  
 Toutes les personnes appartiennent à une unité de niveau 4. Cette relation entre une personne et une unité est appelée **accréditation**.  
 Chaque personne, représentée par son numéro sciper, a une ou plusieurs accréditations dans différentes unités et chaque accréditation est identifiables par un ID unique.  
 Les accréditations conférent un **rôle** a chaque personne qui peut être par exemple:  
@@ -72,9 +72,12 @@ L'application officielle de l'EPFL est pocket campus qui est disponible sur IOS,
 - Réserver un parking place verte.  
 - Rechercher des collaborateurs de l'EPFL sur l'annuaire.  
 ##Centre de langue  
-Le centre de langues permet de faire des cours de langues gratuitement. Il se situe au batiment CM. Vous pouvez vous inscire depuis la page <https://www.epfl.ch/campus/services/internal-trainings/language-centre/>.  
+Le centre de langues permet de faire des cours de langues gratuitement. Il se situe au batiment CE. Vous pouvez vous inscire depuis la page <https://www.epfl.ch/campus/services/internal-trainings/language-centre/>.  
 ##Plus d'informations  
-Vous pouvez trouver plus d'informations sur le site <https://www.epfl.ch/campus/services/accueil/ressources-humaines/nouveaux-collaborateurs-trices/>
+Vous pouvez trouver plus d'informations sur le site <https://www.epfl.ch/campus/services/accueil/ressources-humaines/nouveaux-collaborateurs-trices/>  
+#Glossaire
+- SCIPER : Identification au sein de l'EPFL. 
+- AGEPOLY : Association des étudiants de l'EPFL dont le bureau se trouve à l'esplanade.
 
 
 
