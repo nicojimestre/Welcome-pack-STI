@@ -65,7 +65,7 @@ L'application officielle de l'EPFL est pocket campus qui est disponible sur tout
 - Voir son solde camipro et envoyer de l'argent depuis sa camipro à d'autres gens.  
 - Imprimer sur une imprimante de l'EPFL.  
 - Réserver un parking place verte.  
-- Annuaire(à finir)  
+- Rechercher des collaborateurs de l'EPFL sur l'annuaire.  
 ##Centre de langue  
 Le centre de langues permet de faire des cours de langues gratuitement. Il se situe au batiment CM. Vous pouvez vous inscire depuis la page <https://www.epfl.ch/campus/services/internal-trainings/language-centre/>.  
 #Plus d'informations  
