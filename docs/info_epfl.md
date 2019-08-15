@@ -40,13 +40,15 @@ Vous pouvez trouver plus d'informations concernant les accréditations sur <http
 L'epfl est composé d'un service desk qui s'occupe de traiter tous les problèmes IT et questions qu'ont les collaborateurs de l'EPFL. Les demandes faites par les collaborateurs sont appelés tickets. Ces tickets sont redirigés par le service desk vers l'unité de l'epfl qui doit le traiter. Ainsi le travail du service desk est principalement de transmettre les tickets vers le bon service.  
 Les personnes chargées de régler les problèmes des collaborateurs sont divisés en unités et chaque unité reçoit les requêtes lui correspondantes. Une personne peut faire partie de plusieurs unités. Dès qu'une personne décide de traiter un ticket, elle se l'assigne et le ticket ne peut plus être traité par une autre personne. Ceci permet de ne pas traiter un même ticket plusieurs fois.  
 ![Schéma 1](Capture.PNG)
-Dans la description du problème, il est préférable de suive une forme précise qui est la suivante :  
+D'autre part, lorsqu'on fait la description du problème dans le ticket, il est préférable de suive une forme précise qui est la suivante :  
 - Description du problème  
-- Etapes de reproduction, ie ce qui a été fait pour avoir le problème  
+- Etapes de reproduction, ie Les étapes réalisées avant d'avoir le problème    
 - Comportement constaté, ie qu'est ce qui s'est passé  
 - Comportement attendu, ie ce que le collaborateur voulait qu'il se passe  
 A partir de ces informations, il est généralement possible de résoudre un ticket. Cependant si l'information est insuffisante pour résoudre le problème, alors il est possible grâce à la boite de dialogue de demander des informations supplémentaires.  
 Si le collaborateur de répond pas après plusieurs rappels, il est possible de classer le ticket comme résolu avec comme code de fermeture Pas de réponse.  
+De plus si vous ne savez pas résoudre le ticket mais vous savez qui peut le résoudre, vous pouvez le lui transmettre ou le lui assigner.  
+Lorsque le ticket est résolu, son statut doit être changé à résolu.
 #Information Pratique  
 ##Camipro  
 La carte camipro est en quelque sorte la carte d'identité de l'EPFL. Elle permet de :  
