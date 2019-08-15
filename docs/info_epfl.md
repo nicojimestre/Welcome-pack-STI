@@ -36,7 +36,7 @@ D'autre part, il y a les droits explicites. Ce sont les droits qu'une personne A
 <!-- commentaire pour faire un espace-->  
 Vous pouvez trouver plus d'informations concernant les accréditations sur <https://accreditation.epfl.ch/comprendre/>
 
-#HelpDesk  
+#Service Desk  
 L'epfl est composé d'un service desk qui s'occupe de traiter tous les problèmes IT et questions qu'ont les collaborateurs de l'EPFL. Les demandes faites par les collaborateurs sont appelés tickets. Ces tickets sont redirigés par le service desk vers l'unité de l'epfl qui doit le traiter. Ainsi le travail du service desk est principalement de transmettre les tickets vers le bon service.  
 Les personnes chargées de régler les problèmes des collaborateurs sont divisés en unités et chaque unité reçoit les requêtes lui correspondantes. Une personne peut faire partie de plusieurs unités. Dès qu'une personne décide de traiter un ticket, elle se l'assigne et le ticket ne peut plus être traité par une autre personne. Ceci permet de ne pas traiter un même ticket plusieurs fois.  
 ![Schéma 1](Capture.PNG)
