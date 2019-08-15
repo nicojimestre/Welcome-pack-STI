@@ -17,7 +17,7 @@ Le campus est composé de 5 facultés et de 3 collèges :
 - Middle- East  
 #Accréditations  
 L'EPFL est une organisation qui est divisée en 5 facultés et en 3 collèges (cf Facultés et Collèges). Chaque faculté est composée de sections et d'unités administratives.     
-![Schéma](schema_epfl.PNG)
+![Schéma 1](schema_epfl.PNG)
 Dans le schéma ci-dessus, Chaque rectangle est appelé une unité. Une unité peut être une faculté, un laboratoire, le service IT d'une faculté, etc. Celles-ci ont un niveau correspondant à leur position dans la hiérarchie. Les niveaux vont de 1 à 4 (1 le plus élevé et 4 le moins élevé)..  
 Toutes les personnes appartiennent à une unité de niveau 4. Cette relation entre une personne et une unité est appelée **accréditation**.  
 Chaque personne, représentée par son numéro sciper, a une ou plusieurs accréditations dans différentes unités et chaque accréditation est identifiables par un ID unique.  
@@ -39,6 +39,7 @@ Vous pouvez trouver plus d'informations concernant les accréditations sur <http
 #HelpDesk  
 L'epfl est composé d'un service desk qui s'occupe de traiter tous les problèmes IT et questions qu'ont les collaborateurs de l'EPFL. Les demandes faites par les collaborateurs sont appelés tickets. Ces tickets sont redirigés par le service desk vers l'unité de l'epfl qui doit le traiter. Ainsi le travail du service desk est principalement de transmettre les tickets vers le bon service.  
 Les personnes chargées de régler les problèmes des collaborateurs sont divisés en unités et chaque unité reçoit les requêtes lui correspondantes. Une personne peut faire partie de plusieurs unités. Dès qu'une personne décide de traiter un ticket, elle se l'assigne et le ticket ne peut plus être traité par une autre personne. Ceci permet de ne pas traiter un même ticket plusieurs fois.  
+![Schéma 1](Capture.PNG)
 Dans la description du problème, il est préférable de suive une forme précise qui est la suivante :  
 - Description du problème  
 - Etapes de reproduction, ie ce qui a été fait pour avoir le problème  
