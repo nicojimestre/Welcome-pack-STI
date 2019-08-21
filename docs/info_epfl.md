@@ -62,6 +62,16 @@ La carte camipro est en quelque sorte la carte d'identité de l'EPFL. Elle perme
 <!-- commentaire pour faire un espace--> 
 Vous pouvez recharger votre camipro à l'AGEPOLY à l'esplanade avec de l'argent liquide ou par carte de crédit dans les bornes de recharge.  
 En cas de vol vous pouvez bloquer votre camipro via l'application (cf application) et en racheter une nouvelle au guichet des Services Aux Etudiants qui se trouve dans le batiment BP.    
+##Services informatiques
+- Vous pouvez télécharger un anti-virus de l'EPFL via le lien suivant <https://wiki.epfl.ch/secure-it/aven>  
+- Vous pouvez utiliser le service switch pour envoyer des données trop volumineuses. Le lien est <https://www.switch.ch/services/filesender/>  
+- Vous avez accès à un VPN de l'epfl pour vous connecter depuis où vous voulez à l'EPFL. Voici le lien <https://www.epfl.ch/campus/services/ressources-informatiques/network-services-reseau/acces-intranet-a-distance/>  
+- Télécharger des logiciels sous licence EPFL via distrilog, <https://distrilog.epfl.ch/main.aspx>. Vous devez vous authentifier via votre compte gaspar (cf glossaire)  
+- l'email epfl est le suivant <https://distrilog.epfl.ch/main.aspx>. Vous devez vous authentifier via votre compte gaspar (cf glossaire)  
+- Vous avez accès à scitas qui vous permet d'avoir accès à des ordinateurs avec beaucoup de puissance. Le site est <https://scitas.epfl.ch/>  
+-  Vous pouvez acheter du matériel via sesame ont le site est <https://www.epfl.ch/campus/services/ressources/sesame/>. Vous devez vous authentifier via votre compte gaspar (cf glossaire)  
+- Vous avez accès à des formations gratuites sur le site <https://www.epfl.ch/campus/services/internal-trainings/formations-internes/service-de-formation-du-personnel/>. Vous devez vous authentifier via votre compte gaspar (cf glossaire).  
+- L'EPFL à un système de vidéoconférence qui est zoom. Le lien est <https://epfl.zoom.us/>  
 ##Transport  
 L'EPFL est relié à :  
 - Lausanne-Flon grâce au métro M1 direction Lausanne-Flon.  
@@ -89,6 +99,7 @@ Le centre de langues permet de faire des cours de langues gratuitement. Il se si
 ##Plus d'informations  
 Vous pouvez trouver plus d'informations sur le site <https://www.epfl.ch/campus/services/accueil/ressources-humaines/nouveaux-collaborateurs-trices/>  
 #Glossaire
+- Gaspar: compte Epfl qui permet de se connecter à la plupart des services en ligne de l'epfl comme par exemple le mail epfl. Pour toute information relative à Gaspar, <https://gaspar.epfl.ch/>
 - SCIPER : Numéro d'identification au sein de l'EPFL. Il est important de le connaître car il est souvent demandé.   
 - AGEPOLY : Association des étudiants de l'EPFL dont le bureau se trouve à l'esplanade.
 
