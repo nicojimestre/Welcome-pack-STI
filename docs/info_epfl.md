@@ -49,6 +49,8 @@ A partir de ces informations, il est généralement possible de résoudre un tic
 Si le collaborateur de répond pas après plusieurs rappels, il est possible de classer le ticket comme résolu avec comme code de fermeture Pas de réponse.  
 De plus si vous ne savez pas résoudre le ticket mais vous savez qui peut le résoudre, vous pouvez le lui transmettre ou le lui assigner.  
 Lorsque le ticket est résolu, son statut doit être changé à résolu.
+Voici le processus de création et de résolution de ticket illustré par un schéma:
+!Schéma 2(Untitled Diagram.png)
 #Information Pratique  
 ##Camipro  
 La carte camipro est en quelque sorte la carte d'identité de l'EPFL. Elle permet de :  
