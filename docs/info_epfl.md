@@ -51,7 +51,7 @@ De plus si vous ne savez pas résoudre le ticket mais vous savez qui peut le ré
 Lorsque le ticket est résolu, son statut doit être changé à résolu.  
 <!-- commentaire pour faire un espace--> 
 Voici le processus de création et de résolution de ticket illustré par un schéma:  
-![Schéma 2](Untitled Diagram.png)  
+![Schéma 2](ticketing.png)  
 ###Questions  
 - Si la personne qui à ouvert le ticket ne répond pas à vos demandes pour plus d'information, vous pouvez fermer le ticket  
 #Information Pratique  
