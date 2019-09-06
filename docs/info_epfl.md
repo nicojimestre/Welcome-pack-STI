@@ -50,7 +50,9 @@ Si le collaborateur de répond pas après plusieurs rappels, il est possible de 
 De plus si vous ne savez pas résoudre le ticket mais vous savez qui peut le résoudre, vous pouvez le lui transmettre ou le lui assigner.  
 Lorsque le ticket est résolu, son statut doit être changé à résolu.  
 Voici le processus de création et de résolution de ticket illustré par un schéma:  
-![Schéma 2](Untitled Diagram.png)
+![Schéma 2](Untitled Diagram.png)  
+###Questions  
+- Si la personne qui à ouvert le ticket ne répond pas à vos demandes pour plus d'information, vous pouvez fermer le ticket  
 #Information Pratique  
 ##Camipro  
 La carte camipro est en quelque sorte la carte d'identité de l'EPFL. Elle permet de :  
